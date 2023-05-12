@@ -1,4 +1,5 @@
-# Hi, I'm Allison Wolter, a full-stack software engineer 👋
+# Hi, I'm Allison Wolter 👋
+## I'm a full-stack software engineer ✨
 
 ## Skills
 
@@ -6,8 +7,6 @@ JavaScript · Node.js · Ruby on Rails · React.js · Python (Programming Langua
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awolter27&theme=highcontrast&show_icons=true&count_private=true&hide=stars,prs)
-
-## Hobbies
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awolter27&theme=highcontrast&show_icons=true&count_private=true&hide=stars)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=awolter27&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awolter27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
