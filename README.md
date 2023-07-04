@@ -7,14 +7,14 @@ I am a software engineer who has experience in both the front-end and back-end o
 
 ## 🧠 Skills
 
-Styling Languages: Hypertext Markup Language (HTML), Cascading Style Sheets (CSS)
-Programing Languages: JavaScript (JS), Python (PY)
-Templating Languages: Embedded JavaScript (EJS), JavaScript XML (JSX)
-Frameworks and Libraries: React.js, Express.js, Node.js, jQuery, Django, Bootstrap, Mongoose, dotenv, bcrypt
-Databases: Relational Database Management System (RDBMS), SQL, Postgres, NoSQL, MongoDB
-Development Tools: Nodemon
-Electronic Health Records: Epic, Cerner, Allscripts, VelociDoc, CureMD
-Other: Algorithms, APIs, DOM, OOP, JSON, Cors, Git, GitHub, Microsoft Visual Studio Code, Microsoft Office Suite
+Styling Languages: Hypertext Markup Language (HTML), Cascading Style Sheets (CSS) <br>
+Programing Languages: JavaScript (JS), Python (PY) <br>
+Templating Languages: Embedded JavaScript (EJS), JavaScript XML (JSX) <br>
+Frameworks and Libraries: React.js, Express.js, Node.js, jQuery, Django, Bootstrap, Mongoose, dotenv, bcrypt <br>
+Databases: Relational Database Management System (RDBMS), SQL, Postgres, NoSQL, MongoDB <br>
+Development Tools: Nodemon <br>
+Electronic Health Records: Epic, Cerner, Allscripts, VelociDoc, CureMD <br>
+Other: Algorithms, APIs, DOM, OOP, JSON, Cors, Git, GitHub, Microsoft Visual Studio Code, Microsoft Office Suite <br>
 
 ## 📈 GitHub Stats
 
