@@ -7,7 +7,14 @@ I am a software engineer who has experience in both the front-end and back-end o
 
 ## 🧠 Skills
 
-JavaScript · Node.js · Ruby on Rails · React.js · Python (Programming Language) · Express.js · MongoDB · Cascading Style Sheets (CSS) · Embedded JavaScript (EJS) · Mongoose Web Server · HTML · SQL · NoSQL · JSON · Bootstrap · jQuery · Git · GitHub · Document Object Model (DOM) · Object-Oriented Programming (OOP) · Algorithms · Data Structures · Full-Stack Development · Front-End Development · Back-End Web Development · Microsoft Visual Studio Code
+Styling Languages: Hypertext Markup Language (HTML), Cascading Style Sheets (CSS)
+Programing Languages: JavaScript (JS), Python (PY)
+Templating Languages: Embedded JavaScript (EJS), JavaScript XML (JSX)
+Frameworks and Libraries: React.js, Express.js, Node.js, jQuery, Django, Bootstrap, Mongoose, dotenv, bcrypt
+Databases: Relational Database Management System (RDBMS), SQL, Postgres, NoSQL, MongoDB
+Development Tools: Nodemon
+Electronic Health Records: Epic, Cerner, Allscripts, VelociDoc, CureMD
+Other: Algorithms, APIs, DOM, OOP, JSON, Cors, Git, GitHub, Microsoft Visual Studio Code, Microsoft Office Suite
 
 ## 📈 GitHub Stats
 
