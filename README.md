@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Allison Wolter
+# 👋 Hi, I'm Allison Smith
 
 ## ✨  I'm a full-stack software engineer
 
