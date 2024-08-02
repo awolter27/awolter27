@@ -3,7 +3,7 @@
 ## ✨  I'm a full-stack software engineer
 
 ## 👩🏻 About Me
-I am a software engineer who has experience in both the front-end and back-end of web applications, primarily using Django and the MERN stack. In my previous career as a physician assistant, I developed a passion for approaching complex problems with a solution-oriented mindset as well as a dedication to continuous learning, growth, and innovation. I’m excited to apply my diverse skill set and unique perspective along with my technical expertise to make a meaningful impact in the world of technology.
+I am a software engineer who has experience in both the front-end and back-end of web applications, primarily using Django and the MERN stack. I am passionate about approaching complex problems with a solution-oriented mindset as well as a dedication to continuous learning, growth, and innovation. I’m excited to apply my diverse skill set and unique perspective along with my technical expertise to make a meaningful impact in the world of technology.
 
 ## 🧠 Skills
 •	**Styling Languages:** Hypertext Markup Language (HTML), Cascading Style Sheets (CSS) <br>
